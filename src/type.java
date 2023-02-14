@@ -1,0 +1,10 @@
+public enum type{
+	CHAMPION,
+	SPHYNX,
+	MARCHAND,
+	ALTRUISTE,
+	FOU,
+	PARCHEMIN,
+	JOYAU,
+	DESTINATION
+}
